@@ -1,7 +1,7 @@
-## 🎓 Admissions Analytics (KCET-style Simulation)
+## 🎓 Admissions Analytics (Simulation)
 
 This repository contains a **near-realistic admissions analytics project** for **College  Bangalore**.  
-It simulates **KCET-style seat allocation and applicant data** across **2019–2023**, using **Python (data generation), SQL (queries), Excel/Power BI (dashboards)**.
+It simulates **Government-style seat allocation and applicant data** across **2019–2023**, using **Python (data generation), SQL (queries), Excel/Power BI (dashboards)**.
 
 ---
 
@@ -54,4 +54,5 @@ Enables college leadership to make data-driven decisions.
 
 
 Useful for curriculum planning, outreach strategies, and policy-making.
+
 
